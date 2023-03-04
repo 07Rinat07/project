@@ -1,0 +1,12 @@
+.body-with-panel {
+    padding-top: 54px;
+}
+
+.admin-panel {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 54px;
+    z-index: 99;
+}

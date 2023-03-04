@@ -1,0 +1,243 @@
+html {
+	height: 100%;
+}
+
+.sticky-footer{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.main-page {
+	padding-bottom: 0 !important;
+}
+
+.main-page__posts-cards {
+	margin-bottom: 90px;
+}
+
+.section-header {
+	background-color: #EAEFF2;
+}
+
+.main-page .section-header {
+	background-color: #FFF;
+}
+
+.authorization-page__header a,
+.section-header__content a {
+	transition: opacity 0.1s ease-in-out;
+}
+
+.authorization-page__header a:hover,
+.section-header__content a:hover {
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+.authorization-page__header-title,
+.authorization-page__header-subtitle,
+.section-header__content-title,
+.section-header__content-subtitle {
+	opacity: inherit;
+}
+
+.enter-or-reg {
+	height: auto;
+	min-height: 200px;
+	padding: 20px;
+}
+
+.card-post {
+	min-width: 350px;
+}
+
+.section-posts__info {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.section-posts__info > * + * {
+	margin-left: 15px;
+}
+
+.card-project__technology a,
+.badge a {
+	transition: opacity 0.1s ease-in-out;
+	color: #fff;
+}
+
+.card-project__technology a:hover,
+.badge a:hover {
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+
+.block-contacts__info {
+    font-weight: 400;
+}
+
+.post-about-skills ul {
+  margin: 0;
+  padding: 0;
+  padding-left: 15px;
+  list-style: none;
+  font-family: 'Playfair Display', sans-serif;
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 1.5;
+}
+
+.post-about-skills li {
+  position: relative;
+  margin-bottom: 5px;
+}
+
+.post-about-skills li::before {
+  content: "";
+  position: absolute;
+  top: 14px;
+  left: -14px;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background-color: #000000;
+}
+
+.post-about-skills li:last-child {
+  margin-bottom: 0;
+}
+
+.input-text {
+    color: black !important;
+}
+
+/* admin panel */
+
+.admin-form {
+	max-width: unset;
+	margin-right: 25px;
+	min-width: 900px;
+}
+
+.admin-panel__message::after,
+.admin-panel__comments::before {
+    width: 20px;
+    height: 20px;
+}
+
+.control-panel__list-img-badge {
+    width: 20px;
+    height: 20px;
+ }
+
+.primary-button--red {
+	background-color: red;
+}
+
+.control-panel__title-wrapper {
+	transition: opacity 0.1s ease-in-out;
+	color: #fff;
+}
+
+.control-panel__title-wrapper:hover {
+	text-decoration: none;
+	opacity: 0.8;
+}
+
+.table tbody a {
+    display: block;
+}
+
+.admin-section-title {
+    font-size: 24px;
+    font-weight: 600;
+    margin: 30px -30px 20px;
+    padding: 15px 30px;
+    background-color: #efefef;
+}
+
+.page-portfolio__cards .card-project {
+    margin-bottom: 40px !important;
+}
+
+
+/* Dashboard */
+
+.dashboard {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.dashboard-item {
+    padding: 15px;
+    border: 1px solid rgb(199, 209, 216);
+    flex-grow: 2;
+}
+
+.dashboard-item {
+    margin-left: 15px;
+    margin-bottom: 15px;
+}
+.dashboard-item__title {
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 25px;
+}
+.dashboard-item__value {
+    font-size: 42px;
+    font-weight: 300;
+    margin-bottom: 25px;
+}
+.dashboard-item__action {
+}
+
+a.control-panel__title-wrapper {
+    color: #fff;
+    text-decoration: none;
+    display: block;
+}
+
+.control-panel__list-img-badge {
+    min-width: 18px;
+    line-height: 1;
+}
+
+.table tbody tr.message-new {
+    background-color: #edffd0;
+}
+
+a.logo-link {
+    text-decoration: none;
+    display: block;
+}
+
+a.logo-link:hover {
+    opacity: 0.6;
+}
+
+.admin-panel__message::after {
+    display: none;
+}
+
+.admin-panel__message-icon {
+    content: attr(data-number);
+    position: absolute;
+    display: block;
+    top: 0;
+    left: 50%;
+    -webkit-transform: translate(0%, -50%);
+    -ms-transform: translate(0%, -50%);
+    transform: translate(0%, -50%);
+    padding: 4px;
+    font-size: 12px;
+    text-align: center;
+    background: #c90000;
+    border-radius: 50%;
+    font-family: "Montserrat", sans-serif;
+    width: 18px;
+    height: 18px;
+}
+
