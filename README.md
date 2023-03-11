@@ -10,8 +10,8 @@
 
 ### About me
 - 🌱 Now I'm studying **English, as well as programming**. 
-- 📝 I regularly write articles on [Medium](medium-link)
-- 📄 Know about my experiences [CV](cv-link)
+- 📝Passionate about modern technology
+- 📄 Link to my portfolio [CV]([cv-link](https://myportfolio.a07.kz/))
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
 
