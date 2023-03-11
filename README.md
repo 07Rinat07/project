@@ -11,7 +11,7 @@
 ### About me
 - 🌱 Now I'm studying **English, as well as programming**. 
 - 📝Passionate about modern technology
-- 📄 Link to my portfolio [[CV](https://myportfolio.a07.kz/)]([cv-link](https://myportfolio.a07.kz/))
+- 📄 Link to my portfolio ([cv-link](https://myportfolio.a07.kz/))
 - 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
 
