@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/07Rinat07/project](https://github.com/07Rinat07/project)
+- 👨‍💻 All of my projects are available at [https://myportfolio.a07.kz/](https://myportfolio.a07.kz/)
 
 - 📫 How to reach me **ura07srr@gmail.com**
 
