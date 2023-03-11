@@ -7,14 +7,11 @@
 <h1 align="center">Hi 👋, I'm Rinat</h1>
 <h3 align="center">A Passionate web developer from Kazakhstan</h3>
 
-
 ### About me
 - 🌱 Now I'm studying **English, as well as programming**. 
 - 📝Passionate about modern technology
 - 📄 Link to my portfolio ([cv-link](https://myportfolio.a07.kz/))
-- 📫 Reach me by [LinkedIn](linkedin-link), [email](mailto:email-address)
 - 🌍 I speak English
-
 
 
 
