@@ -11,8 +11,6 @@
 - 🌱 Now I'm studying **English, as well as programming**. 
 - 📝Passionate about modern technology
 - 📄 Link to my portfolio ([cv-link](https://myportfolio.a07.kz/))
-- 🌍 I speak English
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07rinat07&label=Profile%20views&color=0e75b6&style=flat" alt="07rinat07" /> </p>
@@ -24,7 +22,7 @@
 - 👨‍💻 All of my projects are available at [https://myportfolio.a07.kz/](https://myportfolio.a07.kz/)
 
 
-<h3 align="left">Connect with me:ura07srr@gmail.com</h3>
+<h3 align="left">Connect with me:  ura07srr@gmail.com</h3>
 <p align="left">
 </p>
 
