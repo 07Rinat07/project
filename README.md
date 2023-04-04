@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **ura07srr@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:ura07srr@gmail.com</h3>
 <p align="left">
 </p>
 
