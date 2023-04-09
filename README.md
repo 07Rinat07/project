@@ -12,6 +12,10 @@
 - 📝Passionate about modern technology
 - 📄 Link to my portfolio ([cv-link](https://myportfolio.a07.kz/))
 
+### Descripton
+
+The source code of my website (CMS) for Portfolio. Written in Php 7.4, Mysql-PDO(Readbean ORM), MVC site structure.
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=07rinat07&label=Profile%20views&color=0e75b6&style=flat" alt="07rinat07" /> </p>
 
