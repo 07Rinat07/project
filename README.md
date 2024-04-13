@@ -6,7 +6,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=45&duration=4000&pause=7&color=0C2AF7&center=true&vCenter=true&multiline=true&width=1400&height=220&lines=Good+time+of+the+day.+;This+project+is+my+portfolio+site+;where+you+can+see+other+projects+;and+more+information+about+me." alt="Typing SVG" /></a>
 
-riginal-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 
 
 
